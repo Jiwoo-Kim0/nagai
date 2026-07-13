@@ -63,7 +63,7 @@ Access [http://localhost:8000/docs](http://localhost:8000/docs)
 
 **Contributions:**  
 - **Wooyoung:** Backend endpoints, deployment, gesture help, storage setup  
-- **Jiwoo:** OAuth setup, distraction notification system, log pages (distraction log & focus log), MyPage 
+- **Jiwoo:** OAuth setup, distraction notification system, log pages (distraction log & focus log), MyPage, docker 
 - **Joohyoung:** Frontend core pages, widescreen mode, webcam integration
 
 **Code Conventions:**  
